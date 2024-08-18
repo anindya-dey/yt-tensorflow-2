@@ -1,1 +1,7 @@
 tensorflow
+
+# for working with VS Code, uncomment the following:
+# ipykernel
+
+# for working with Jupyter Notebook, uncomment the following:
+# notebook
